@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack Developer from India</h3> 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aadarsh8434&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ankitraj03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <br/>
